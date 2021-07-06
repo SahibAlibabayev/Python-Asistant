@@ -1,6 +1,6 @@
 # Python-Asistant
 **Türkçe:
-Herkese merhabalar bu Pyhthon dili ile yazilmis bir Google Asistan benzeridir.
+Herkese merhabalar bu Python dili ile yazilmis bir Google Asistan benzeridir.
 Bu uygulamanin en guzel yani kodu istediginiz gibi degistirerek uygulamaya istediginizi
 soyleyib istediginiz cevabi ala bilirsiniz**
 
