@@ -71,6 +71,8 @@ def response(voice):
         speak("Ben teşekkür ederim")
     if "hava kaç derece" in voice or "hava" in voice:
         speak(f"Bugün Hava {hava_durumu()}")
+    if "sevdiğin şey ne" in voice:
+        speak("Seninle konuşmak")
 
 def speak(string):
     tts = gTTS(string,lang='tr')
@@ -86,7 +88,6 @@ while 1:
     voice = record()
     print(voice)
     response(voice)
-
 
 
 
